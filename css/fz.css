@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'ownttf';
+    src: url('../fonts/李旭科毛笔行书.ttf');
+}
+#own{
+    font-family: 'ownttf' !important;
+    color: blueviolet;
+}
